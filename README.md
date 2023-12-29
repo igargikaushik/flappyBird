@@ -38,6 +38,4 @@ This project is licensed under the MIT License.
 
 
 ..CSS
-Copy code
 
-Make sure to replace placeholders like `[insert your game engine/framewor
