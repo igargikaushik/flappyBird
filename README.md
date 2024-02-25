@@ -3,6 +3,9 @@
 
 ## Overview
 FlappyBird is a classic 2D platformer game inspired by the famous Flappy Bird game. The player controls a bird character, guiding it through a series of obstacles, with the goal of achieving the highest score possible.
+
+
+![Screenshot 2024-02-26 003029](https://github.com/igargikaushik/flappyBird/assets/133994504/664f77ea-6314-4f44-895a-cdad8279f8f8)
 ## Features
 - Simple and addictive gameplay mechanics.
 - Endless generation 
