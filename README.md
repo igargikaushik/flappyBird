@@ -8,6 +8,12 @@ FlappyBird is a classic 2D platformer game inspired by the famous Flappy Bird ga
 - Endless generation 
 - Score tracking and display.
 - Responsive touch or keyboard controls.
+- 
+## How to Play
+- Use the spacebar key or tap the screen to make the bird flap its wings and ascend.
+- Avoid colliding with pipes or falling to the ground.
+- Each successful passage through a pair of pipes earns one point.
+- Try to achieve the highest score possible!
 
 ## Technologies Used
 - Unity game engine.
