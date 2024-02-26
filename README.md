@@ -33,6 +33,6 @@ FlappyBird is a classic 2D platformer game inspired by the famous Flappy Bird ga
 - Improve graphics and visual effects.
 - Add audio and music tracks.
 
-# Acknowledgements 
+### Acknowledgements 
 to the creators of the original Flappy Bird game for the inspiration.
  to the Unity community for valuable resources
